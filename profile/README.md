@@ -1,6 +1,6 @@
 # TeaCode : Turning Tea into Code
 
-![image info](./assets/simplecover.png)
+![image info]('https://raw.githubusercontent.com/teacodema/.github/main/profile/assets/simplecover.png')
 
 ## **TEACODE LINKS** 🌐
 
