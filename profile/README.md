@@ -1,5 +1,7 @@
 # TeaCode : Turning Tea into Code
 
+![image info](./assets/simplecover.png)
+
 ## **TEACODE LINKS** 🌐
 
 - Website : [https://teacode.ma](https://teacode.ma/)
