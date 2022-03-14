@@ -1,6 +1,6 @@
 # TeaCode : Turning Tea into Code
 
-<img src="assets/simple-cover.png" alt="">
+<img src="profile/assets/simple-cover.png" alt="">
 
 ## **TEACODE LINKS** 🌐
 
