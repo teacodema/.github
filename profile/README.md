@@ -15,8 +15,8 @@
 - Github : [https://community.drissboumlik.com/github](https://github.com/teacodema)
 - Email : [contact@teacode.ma](mailto:contact@teacode.ma)
 - How To **Support us** 💜
-  - PayPal : [https://teacode.ma/paypal](https://paypal.me/drissboumlik)
-  - Patreon : [https://teacode.ma/patreon](https://patreon.com/teacodema/)
+  - PayPal : [https://community.drissboumlik.com/paypal](https://paypal.me/drissboumlik)
+  - Patreon : [https://community.drissboumlik.com/patreon](https://patreon.com/teacodema/)
 
 ## **TEACODE MISSION** 📜
 
@@ -25,4 +25,4 @@ Join us and level up your programming skills in the process, or give 15 to 30 mi
 
 Whether you are learning to code, thinking about it, looking for a job in software development, Join a Moroccan developers community who can help you in your learning journey.
 
-But in order to achieve this mission you need to follow/respect the [📕・rules](https://teacode.ma/rules).
+But in order to achieve this mission you need to follow/respect the [📕・rules](https://community.drissboumlik.com/rules).
