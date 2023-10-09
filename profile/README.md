@@ -4,15 +4,15 @@
 
 ## **TEACODE LINKS** 🌐
 
-- Website : [https://teacode.ma](https://teacode.ma/)
-- Discord : [https://teacode.ma/join](https://teacode.ma/join)
-- Facebook Group : [https://teacode.ma/facebook-group](https://facebook.com/groups/teacode.ma)
-- Facebook Page : [https://teacode.ma/facebook](https://facebook.com/teacode.ma)
-- YouTube : [https://teacode.ma/youtube](https://youtube.com/teacodema/)
-- Instagram : [https://teacode.ma/instagram](https://instagram.com/teacode.ma)
-- Twitter : [https://teacode.ma/twitter](https://twitter.com/teacodema)
-- Linkedin : [https://teacode.ma/linkedin](https://linkedin.com/company/teacode.ma)
-- Github : [https://teacode.ma/github](https://github.com/teacodema)
+- Website : [https://community.drissboumlik.com](https://community.drissboumlik.com/)
+- Discord : [https://community.drissboumlik.com/join](https://community.drissboumlik.com/join)
+- Facebook Group : [https://community.drissboumlik.com/facebook-group](https://facebook.com/groups/teacode.ma)
+- Facebook Page : [https://community.drissboumlik.com/facebook](https://facebook.com/teacode.ma)
+- YouTube : [https://community.drissboumlik.com/youtube](https://youtube.com/teacodema/)
+- Instagram : [https://community.drissboumlik.com/instagram](https://instagram.com/teacode.ma)
+- Twitter : [https://community.drissboumlik.com/twitter](https://twitter.com/teacodema)
+- Linkedin : [https://community.drissboumlik.com/linkedin](https://linkedin.com/company/teacode.ma)
+- Github : [https://community.drissboumlik.com/github](https://github.com/teacodema)
 - Email : [contact@teacode.ma](mailto:contact@teacode.ma)
 - How To **Support us** 💜
   - PayPal : [https://teacode.ma/paypal](https://paypal.me/drissboumlik)
