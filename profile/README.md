@@ -13,7 +13,7 @@
 - Twitter : [https://community.drissboumlik.com/twitter](https://twitter.com/teacodema)
 - Linkedin : [https://community.drissboumlik.com/linkedin](https://linkedin.com/company/teacode.ma)
 - Github : [https://community.drissboumlik.com/github](https://github.com/teacodema)
-- Email : [contact@teacode.ma](mailto:contact@teacode.ma)
+- Email : [community@drissboumlik.com](mailto:community@drissboumlik.com)
 - How To **Support us** 💜
   - PayPal : [https://community.drissboumlik.com/paypal](https://paypal.me/drissboumlik)
   - Patreon : [https://community.drissboumlik.com/patreon](https://patreon.com/teacodema/)
