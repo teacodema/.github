@@ -6,11 +6,8 @@
 
 - Website : [https://community.drissboumlik.com](https://community.drissboumlik.com/)
 - Discord : [https://community.drissboumlik.com/join](https://community.drissboumlik.com/join)
-- Facebook Group : [https://community.drissboumlik.com/facebook-group](https://facebook.com/groups/teacode.ma)
 - Facebook Page : [https://community.drissboumlik.com/facebook](https://facebook.com/teacode.ma)
 - YouTube : [https://community.drissboumlik.com/youtube](https://youtube.com/teacodema/)
-- Instagram : [https://community.drissboumlik.com/instagram](https://instagram.com/teacode.ma)
-- Twitter : [https://community.drissboumlik.com/twitter](https://twitter.com/teacodema)
 - Linkedin : [https://community.drissboumlik.com/linkedin](https://linkedin.com/company/teacode.ma)
 - Github : [https://community.drissboumlik.com/github](https://github.com/teacodema)
 - Email : [community@drissboumlik.com](mailto:community@drissboumlik.com)
