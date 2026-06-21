@@ -21,5 +21,3 @@ As human beings, we love bringing value to ourselves and to others.
 Join us and level up your programming skills in the process, or give 15 to 30 min of your time to help others who need it, a value is added in both ways.
 
 Whether you are learning to code, thinking about it, looking for a job in software development, Join a Moroccan developers community who can help you in your learning journey.
-
-But in order to achieve this mission you need to follow/respect the [📕・rules](https://community.drissboumlik.com/rules).
