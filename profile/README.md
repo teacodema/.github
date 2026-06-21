@@ -17,7 +17,4 @@
 
 ## **TEACODE MISSION** 📜
 
-As human beings, we love bringing value to ourselves and to others.
-Join us and level up your programming skills in the process, or give 15 to 30 min of your time to help others who need it, a value is added in both ways.
-
-Whether you are learning to code, thinking about it, looking for a job in software development, Join a Moroccan developers community who can help you in your learning journey.
+We believe in the power of giving and receiving. Whether you're learning to code, switching careers, or looking for your first dev job — join a Moroccan developers community where 15–30 minutes of your time can change someone's journey, including your own.
